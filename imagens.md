@@ -1,11 +1,11 @@
 # Adicionando Imagens 
 
-![Imagem](assets/imagem.png)
+![Imagem](assets/certificado.jpg)
 
-<img src="assets/imagem" width="100%" />
+<img src="assets/certificado.jpg" width="100%" />
 
 <p align="center">
-  <img src="assets/imagem" width="100%" />
+  <img src="assets/certificado.jpg" width="100%" />
   <br>
-  <i>Figura: Arquitetura de pipeline de dados proposta para OLX Brasil.</i>
+  <i>Figura: Certificado do Curso de Análise de Dados.</i>
 </p>
